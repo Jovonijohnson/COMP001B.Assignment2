@@ -38,6 +38,7 @@ h3 {
     margin-bottom: 40px;
     margin-left: 50px;
     float: left;
+    /* Added color E93A22 and changed px */
 }
 .clear {
     clear: both;
@@ -68,7 +69,7 @@ h3 {
     float: left;
     margin: 20px;
 }
-
+ /* Added padding changes and margin */
 #copyright {
     padding-top: 25px;
     color: #E93A22;
@@ -87,7 +88,7 @@ h3 {
 #section-about {
     margin-bottom: -15px;
 }
-
+ /* Adjusted text intro */
 #text-intro {
     width: calc(100% - 90px);
     height: auto;
